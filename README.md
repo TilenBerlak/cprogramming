@@ -1,2 +1,5 @@
-# cprogramming
-A collection of C exercises from university course
+# C programming
+
+Everything for C programming university course.
+
+
